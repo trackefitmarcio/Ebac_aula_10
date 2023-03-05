@@ -1,11 +1,12 @@
-Dados do aluno
+Dados do aluno - Alteração 05.03.2023
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+
+-Primeiro Nome: Marcio Pinheiro
+-Profissão: Corretor de Seguros
+-Cidade: São Paulo
+-O que faz nas horas vaga: Estudando Dev
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante
+-Feedback sobre a plataforma de estudo da EBAC: Também
 
 Obrigado!!!
 
